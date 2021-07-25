@@ -1,5 +1,5 @@
 {
-    "name": "2足歩行ロボット",
+    "name": "2足歩行ロボット（初期設定）",
     "description": "",
     "dependencies": {
         "core": "*",
